@@ -6,10 +6,10 @@ order: 4
 
 > En este lugar no perdemos demasiado tiempo mirando hacia atras.
 
-**Camina hacia el futuro**. Abriendo nuevas puertas y probando cosas nuevas.
+> **Camina hacia el futuro**. Abriendo nuevas puertas y probando cosas nuevas.
 
-Sé curioso... porque nuestra curiosidad siempre nos conduce por nuevos caminos.
+>     Sé curioso... porque nuestra curiosidad siempre nos conduce por nuevos caminos.
 
-                                                                Walt Disney
+>                                                           Walt Disney
 
 Live Dream Guy ☀️
