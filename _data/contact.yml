@@ -2,7 +2,6 @@
 
 - type: email
   icon: "fas fa-envelope"
-  # url: 'marianoalfonso80@protonmail.com'
   noblank: true # open link in current tab
   
 - type: linkedin
