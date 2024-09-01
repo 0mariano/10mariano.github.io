@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mariano Alfonso | CyberSecurity and Ethical Hacking # the main title
+title: 0xmaa # the main title
 
-tagline: Articles on CyberSecurity, CTFs and Investigations # it will display as the subtitle
+tagline: CyberSecurity Student | CTFs Player | Pentesting | Ethical Hacking | Red Team # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  CyberSecurity Student | CTFs Player | Pentesting | Ethical Hacking | Red Team
+  Articles on CyberSecurity, CTFs and Investigations
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
