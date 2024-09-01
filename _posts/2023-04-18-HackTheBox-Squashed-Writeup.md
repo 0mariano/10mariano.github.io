@@ -5,7 +5,6 @@ excerpt: "En esta máquina se toca estos temas: Abusar de los propietarios asign
 date: 2023-04-18
 categories: [HackTheBox, Easy, CFTs]
 tags: [Privilege Escalation, Pentesting, Linux, Easy, NFS mount]
-teaser_home_page: true
 image:
   path: /assets/images/HTB/writeup-squashed/Squashed.png
 ---
