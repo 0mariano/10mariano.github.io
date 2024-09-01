@@ -1,24 +1,15 @@
 ---
+title: Blue Writeup - TryHackMe
 layout: single
 title: Squashed - Hack The Box
-excerpt: "En esta máquina se toca estos temas: Abusar de los propietarios asignados a los recursos compartidos de NFS mediante la creación de nuevos usuarios en el sistema  (Obtener acceso a la raíz web). Creación de un shell web para obtener acceso al sistema. Abuso del archivo .Xauthority (Pentesting X11). Tomar una captura de pantalla de la pantalla de otro usuario." 
+excerpt: "En esta máquina se toca estos temas: Abusar de los propietarios asignados a los recursos compartidos de NFS mediante la creación de nuevos usuarios en el sistema  (Obtener acceso a la raíz web). Creación de un shell web para obtener acceso al sistema. Abuso del archivo .Xauthority (Pentesting X11). Tomar una captura de pantalla de la pantalla de otro usuario."
 date: 2023-04-18
-classes: wide
-header:
-  teaser: /assets/images/HTB/writeup-squashed/Squashed.png
-  teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
-categories:
-  - HackTheBox
-  - Easy
-  - CFTs
-tags:
-  - Privilege Escalation
-  - Pentesting
-  - Linux
-  - NFS mount
+categories: [HackTheBox, Easy, CFTs]
+tags: [Privilege Escalation, Pentesting, Linux, Easy, NFS mount]
+teaser_home_page: true
+image:
+  path: /assets/images/HTB/writeup-squashed/Squashed.png
 ---
-
 
 ![](/assets/images/HTB/writeup-squashed/Squashed.png)
 
